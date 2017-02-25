@@ -1,0 +1,14 @@
+.header {
+background: #fff
+box-shadow: 0 1px 3px 0 rgba(00, 00, 00, .2);
+
+}
+
+.header-left, .header-right{
+float: left;
+width: 50%;
+}
+
+.header-right{
+text-align: right
+}
