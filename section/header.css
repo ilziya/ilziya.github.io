@@ -11,3 +11,16 @@
 .header-right{
   text-align: right;
 }
+
+.user-photo {
+  border: 1px solid #bebebe;
+  border-radius: 50%;
+  overflow: hidden;
+  display: inline-block;
+  vertical-align: middle;
+}
+
+.user-name{
+  display: inline-block;
+  vertical-align: middle;
+}
