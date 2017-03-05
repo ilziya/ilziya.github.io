@@ -3,14 +3,14 @@ html,
 body{
     width: 100%;
     height: 100%;
-    background: f6f6f6;
+    background: #f6f6f6;
 }
 
 body{
     font-family:'fira' Arial , sans-serif;
     font-size: 18px;
     line-height: 1,42;
-    color: 646464;
+    color: #646464;
     -webkit-font-smoothing: antialiased;
 }
 
@@ -35,7 +35,7 @@ body{
 
 .time{
    position: absolute;
-   eft: 20px;
+   left: 20px;
    top: 75px;
 }
 
